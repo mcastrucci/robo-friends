@@ -1,0 +1,15 @@
+.robo-card {
+    background: linear-gradient(rgba(128, 128, 128, 0.6), rgba(0, 0, 0, 0.6));
+    padding: 40px;
+    margin: 20px;
+    text-align: center;
+    transition: 1s;
+    border-radius: 25%;
+    color: white;
+}
+
+.robo-card:hover {
+    transform: scale(1.1);
+    background: linear-gradient(rgba(128, 128, 128, 0.6), black);
+    border-radius: 80%;
+}

@@ -1,0 +1,19 @@
+.search-box{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.search-box input{
+    transition: 1s;
+    background: rgba(128, 128, 128);
+    color:white;
+}
+
+.search-box input::placeholder{
+    color:white;
+}
+
+.search-box input:hover {
+    transform: scale(1.4);
+}

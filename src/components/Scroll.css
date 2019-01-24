@@ -1,0 +1,6 @@
+.scroll{
+    overflow: auto;
+    margin: 20px;
+    height: 80vh;
+    border: 2px solid black;
+}
